@@ -1,1 +1,10 @@
-Your questions here.
+Questions:
+
+1. How does Java handle memory management? Does Java have a garbage collector?
+2. What is the difference in use cases between interfaces and abstract classes?
+3. In reference to the "BadAttitudeException" example in the README, why would someone leave a specific exception (that they coded to be
+    thrown) to be caught by a basic Exception statement? Why would you NOT specify a catch statement for the specific exception type?
+4. When would it make sense to incorporate reflection in a program over implementing an interface like we did? In what cases is using
+    reflection the only option?
+5. Why is Java seemingly more complicated than many other langugages when it comes to running code? Why does one need a Java SDK and Maven
+    just to run and edit code? Is it that many other languages have the same functionality, just abstracted? If so, why is Java's not?
